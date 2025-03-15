@@ -47,12 +47,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium69/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium76/mono.m3u8
 
-#EXTINF:-1 tvg-id="Italy - Serie B - Juve Stabia vs Modena" tvg-name="Italy - Serie B : Juve Stabia vs Modena 15/03/25 - 15:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN Italia
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium77/mono.m3u8
-
 #EXTINF:-1 tvg-id="Italy - Serie C - Ascoli vs Arezzo" tvg-name="Italy - Serie C : Ascoli vs Arezzo 15/03/25 - 15:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sport 254 IT
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
