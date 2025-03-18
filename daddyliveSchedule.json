@@ -1782,13 +1782,9 @@
         ],
         "WWE<\/span>": [
             {
-                "time": "01:00",
-                "event": "WWE Monday Night RAW",
+                "time": "00:00",
+                "event": "WWE Monday Night RAW Replay",
                 "channels": [
-                    {
-                        "channel_name": "Netflix PPV",
-                        "channel_id": "55"
-                    },
                     {
                         "channel_name": "SONY TEN 1",
                         "channel_id": "885"
