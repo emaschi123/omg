@@ -4344,40 +4344,44 @@
             {
                 "time": "01:30",
                 "event": "NHL : Seattle Kraken vs Minnesota Wild",
-                "channels": {
-                    "0": {
+                "channels": [
+                    {
                         "channel_name": "Home Feed",
                         "channel_id": "3"
                     },
-                    "1": {
+                    {
                         "channel_name": "Away Feed",
                         "channel_id": "4"
                     },
-                    "2": {
+                    {
                         "channel_name": "TNT USA",
                         "channel_id": "338"
                     },
-                    "3": {
+                    {
                         "channel_name": "Viaplay Sports 1 UK",
                         "channel_id": "451"
                     },
-                    "5": {
+                    {
+                        "channel_name": "Sportsnet 360",
+                        "channel_id": "409"
+                    },
+                    {
                         "channel_name": "TVA Sports",
                         "channel_id": "833"
                     },
-                    "6": {
+                    {
                         "channel_name": "Sky Sport Mix DE",
                         "channel_id": "557"
                     },
-                    "7": {
+                    {
                         "channel_name": "Sky Sport Top Event DE",
                         "channel_id": "556"
                     },
-                    "8": {
+                    {
                         "channel_name": "Sport 5 Stars Israel",
                         "channel_id": "147"
                     }
-                },
+                ],
                 "channels2": [
                     {
                         "channel_name": "SD-7520531",
