@@ -1673,6 +1673,18 @@ https://nfsnew.iosplayer.ru/nfs/premium30/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium20/mono.m3u8
 
+#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. KK Crvena zvezda Belgrade" tvg-name="Euroleague : BC Olympiakos Piraeus vs. KK Crvena zvezda Belgrade 20/03/25 - 19:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports 4 Greece
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium634/mono.m3u8
+
+#EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. KK Crvena zvezda Belgrade" tvg-name="Euroleague : BC Olympiakos Piraeus vs. KK Crvena zvezda Belgrade 20/03/25 - 19:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Movistar Deportes 4 Spain
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.iosplayer.ru/dokko1/premium527/mono.m3u8
+
 #EXTINF:-1 tvg-id="Euroleague - BC Olympiakos Piraeus vs. KK Crvena zvezda Belgrade" tvg-name="Euroleague : BC Olympiakos Piraeus vs. KK Crvena zvezda Belgrade 20/03/25 - 19:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MAX Sport 2 Bulgaria
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
