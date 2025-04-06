@@ -1109,6 +1109,12 @@ https://windnew.iosplayer.ru/wind/premium391/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium597/mono.m3u8
 
+#EXTINF:-1 tvg-id="World Cup Qualifying - Comoros vs Mali" tvg-name="World Cup Qualifying : Comoros vs Mali 20/03/25 - 22:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport Klub 8 Serbia
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium68/mono.m3u8
+
 #EXTINF:-1 tvg-id="Brazil Copa do Nordeste - AA Altos vs Moto Club" tvg-name="Brazil Copa do Nordeste : AA Altos vs Moto Club 20/03/25 - 23:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Premier Brasil
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1607,6 +1613,12 @@ https://windnew.iosplayer.ru/wind/premium80/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium104/mono.m3u8
 
+#EXTINF:-1 tvg-id="NBA G-League - Delaware 87ers vs Fort Wayne Mad Ants" tvg-name="NBA G-League : Delaware 87ers vs Fort Wayne Mad Ants 20/03/25 - 16:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN+ USA
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium69/mono.m3u8
+
 #EXTINF:-1 tvg-id="First Round 2025 NCAA Men's Basketball Tournament - First Round 2025 NCAA Men's Basketball Tournament" tvg-name="First Round 2025 NCAA Men's Basketball Tournament 20/03/25 - 17:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN5
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2002,6 +2014,12 @@ https://windnew.iosplayer.ru/wind/premium45/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium45/mono.m3u8
+
+#EXTINF:-1 tvg-id="NBA - New York Knicks vs Charlotte Hornets" tvg-name="NBA : New York Knicks vs Charlotte Hornets 20/03/25 - 00:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Home Feed
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium69/mono.m3u8
 
 #EXTINF:-1 tvg-id="NBA - New York Knicks vs Charlotte Hornets" tvg-name="NBA : New York Knicks vs Charlotte Hornets 20/03/25 - 00:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Away Feed
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
