@@ -2387,6 +2387,12 @@ https://nfsnew.iosplayer.ru/nfs/premium34/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
 
+#EXTINF:-1 tvg-id="European Open Classic Powerlifting Championships Session 3 | Malaga - European Open Classic Powerlifting Championships Session 3 | Malaga" tvg-name="European Open Classic Powerlifting Championships Session 3 | Malaga 20/03/25 - 16:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Weightlifting", EuroSport 2 Spain
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
+
 #EXTINF:-1 tvg-id="European Open Classic Powerlifting Championships Session 3 | Malaga - European Open Classic Powerlifting Championships Session 3 | Malaga" tvg-name="European Open Classic Powerlifting Championships Session 3 | Malaga 20/03/25 - 16:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Weightlifting", EuroSport 2 France
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2422,6 +2428,12 @@ https://nfsnew.iosplayer.ru/nfs/premium34/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium58/mono.m3u8
+
+#EXTINF:-1 tvg-id="Engadin | Parallel Giant Slalom World Championships - Engadin | Parallel Giant Slalom World Championships" tvg-name="Engadin | Parallel Giant Slalom World Championships 20/03/25 - 13:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Sports", EuroSport 2 Spain
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.iosplayer.ru/ddy6/premium525/mono.m3u8
 
 #EXTINF:-1 tvg-id="Engadin | Parallel Giant Slalom World Championships - Engadin | Parallel Giant Slalom World Championships" tvg-name="Engadin | Parallel Giant Slalom World Championships 20/03/25 - 13:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Sports", EuroSport 2 France
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
