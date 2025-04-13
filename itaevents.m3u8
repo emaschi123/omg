@@ -39,7 +39,7 @@ https://zekonew.iosplayer.ru/zeko/premium701/mono.m3u8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium48/mono.m3u8
+https://nfsnew.iosplayer.ru/nfs/premium48/mono.m3u8
 
 #EXTINF:-1 tvg-id="2025 Miami Open Tennis ATP 1st Round; WTA 2nd Round - 2025 Miami Open Tennis ATP 1st Round; WTA 2nd Round" tvg-name="2025 Miami Open Tennis ATP 1st Round; WTA 2nd Round 20/03/25 - 16:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Serbia
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
