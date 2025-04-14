@@ -371,6 +371,12 @@ https://windnew.iosplayer.ru/wind/premium886/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium913/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Nations League - Armenia vs Georgia" tvg-name="UEFA Nations League : Armenia vs Georgia 20/03/25 - 18:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 3 Romania
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://top1new.iosplayer.ru/top1/premium402/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Nations League - Armenia vs Georgia" tvg-name="UEFA Nations League : Armenia vs Georgia 20/03/25 - 18:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 2 Romania
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -527,6 +533,12 @@ https://windnew.iosplayer.ru/wind/premium476/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium478/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Nations League - Bulgaria vs Ireland Republic" tvg-name="UEFA Nations League : Bulgaria vs Ireland Republic 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 4 Romania
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://wikinew.iosplayer.ru/wiki/premium586/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Nations League - Bulgaria vs Ireland Republic" tvg-name="UEFA Nations League : Bulgaria vs Ireland Republic 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sports Premier League Greece
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -586,6 +598,12 @@ https://windnew.iosplayer.ru/wind/premium886/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://top1new.iosplayer.ru/top1/premium403/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Nations League - Denmark vs Portugal" tvg-name="UEFA Nations League : Denmark vs Portugal 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 3 Romania
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://wikinew.iosplayer.ru/wiki/premium585/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Nations League - Denmark vs Portugal" tvg-name="UEFA Nations League : Denmark vs Portugal 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 2 NL
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -658,6 +676,12 @@ https://windnew.iosplayer.ru/wind/premium913/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium431/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Nations League - Greece vs Scotland" tvg-name="UEFA Nations League : Greece vs Scotland 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 3 Romania
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://wikinew.iosplayer.ru/wiki/premium585/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Nations League - Greece vs Scotland" tvg-name="UEFA Nations League : Greece vs Scotland 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Variety 4
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -874,6 +898,18 @@ https://ddy6new.iosplayer.ru/ddy6/premium289/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium13/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Nations League - Croatia vs France" tvg-name="UEFA Nations League : Croatia vs France 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 3 Romania
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://top1new.iosplayer.ru/top1/premium402/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Nations League - Croatia vs France" tvg-name="UEFA Nations League : Croatia vs France 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Prima Sport 4 Romania
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://wikinew.iosplayer.ru/wiki/premium586/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Nations League - Croatia vs France" tvg-name="UEFA Nations League : Croatia vs France 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 3 NL
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
