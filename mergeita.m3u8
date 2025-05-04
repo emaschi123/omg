@@ -707,12 +707,6 @@ https://dokko1new.iosplayer.ru/dokko1/premium590/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium74/mono.m3u8
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Italy vs Germany" tvg-name="UEFA Nations League : Italy vs Germany 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Polsat Sport 3 Poland
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium129/mono.m3u8
-
 #EXTINF:-1 tvg-id="UEFA Nations League - Italy vs Germany" tvg-name="UEFA Nations League : Italy vs Germany 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Digi Sport 1 Romania
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -778,6 +772,12 @@ https://windnew.iosplayer.ru/wind/premium467/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.iosplayer.ru/ddy6/premium79/mono.m3u8
+
+#EXTINF:-1 tvg-id="UEFA Nations League - Italy vs Germany" tvg-name="UEFA Nations League : Italy vs Germany 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium81/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Nations League - Italy vs Germany" tvg-name="UEFA Nations League : Italy vs Germany 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", beIN Sports MENA 8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -2165,6 +2165,12 @@ https://nfsnew.iosplayer.ru/nfs/premium31/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium57/mono.m3u8
 
+#EXTINF:-1 tvg-id="Lahti | Women's HS 130 World Cup - Lahti | Women's HS 130 World Cup" tvg-name="Lahti | Women's HS 130 World Cup 20/03/25 - 17:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ski Jumping", EuroSport 1 Spain
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium524/mono.m3u8
+
 #EXTINF:-1 tvg-id="Lahti | Women's HS 130 World Cup - Lahti | Women's HS 130 World Cup" tvg-name="Lahti | Women's HS 130 World Cup 20/03/25 - 17:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ski Jumping", EuroSport 1 France
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -2260,6 +2266,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium773/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.iosplayer.ru/wind/premium57/mono.m3u8
+
+#EXTINF:-1 tvg-id="Women's | Group Stage | World Championship - United States vs Norway" tvg-name="Women's | Group Stage | World Championship : United States vs Norway 20/03/25 - 11:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Sports", EuroSport 1 Spain
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium524/mono.m3u8
 
 #EXTINF:-1 tvg-id="Women's | Group Stage | World Championship - United States vs Norway" tvg-name="Women's | Group Stage | World Championship : United States vs Norway 20/03/25 - 11:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Sports", EuroSport 1 France
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
