@@ -83,12 +83,6 @@ https://zekonew.iosplayer.ru/zeko/premium145/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium379/mono.m3u8
 
-#EXTINF:-1 tvg-id="World Cup Qualifying - Korea Republic vs Oman" tvg-name="World Cup Qualifying : Korea Republic vs Oman 20/03/25 - 12:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN 3 NL
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://windnew.iosplayer.ru/wind/premium888/mono.m3u8
-
 #EXTINF:-1 tvg-id="World Cup Qualifying - Korea Republic vs Oman" tvg-name="World Cup Qualifying : Korea Republic vs Oman 20/03/25 - 12:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport 3 Bulgaria
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -563,6 +557,12 @@ https://nfsnew.iosplayer.ru/nfs/premium403/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium398/mono.m3u8
 
+#EXTINF:-1 tvg-id="UEFA Nations League - Denmark vs Portugal" tvg-name="UEFA Nations League : Denmark vs Portugal 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Serbia
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.iosplayer.ru/wind/premium429/mono.m3u8
+
 #EXTINF:-1 tvg-id="UEFA Nations League - Denmark vs Portugal" tvg-name="UEFA Nations League : Denmark vs Portugal 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Nova Sport Bulgaria
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -820,12 +820,6 @@ https://nfsnew.iosplayer.ru/nfs/premium13/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.iosplayer.ru/nfs/premium402/mono.m3u8
-
-#EXTINF:-1 tvg-id="UEFA Nations League - Croatia vs France" tvg-name="UEFA Nations League : Croatia vs France 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Ziggo Sport 3 NL
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://nfsnew.iosplayer.ru/nfs/premium14/mono.m3u8
 
 #EXTINF:-1 tvg-id="UEFA Nations League - Croatia vs France" tvg-name="UEFA Nations League : Croatia vs France 20/03/25 - 20:45" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 2 Serbia
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -1829,6 +1823,12 @@ https://zekonew.iosplayer.ru/zeko/premium112/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.iosplayer.ru/zeko/premium308/mono.m3u8
 
+#EXTINF:-1 tvg-id="2025 NCAA Men's Basketball Tournament First Round - Montana vs Wisconsin" tvg-name="2025 NCAA Men's Basketball Tournament First Round: Montana vs Wisconsin 20/03/25 - 18:30" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT USA
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium338/mono.m3u8
+
 #EXTINF:-1 tvg-id="2025 NCAA Men's Basketball Tournament First Round - Southern Illinois-Edwardsville vs Houston" tvg-name="2025 NCAA Men's Basketball Tournament First Round: Southern Illinois-Edwardsville vs Houston 20/03/25 - 19:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TBS USA
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
@@ -1846,6 +1846,12 @@ https://zekonew.iosplayer.ru/zeko/premium308/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.iosplayer.ru/dokko1/premium341/mono.m3u8
+
+#EXTINF:-1 tvg-id="2025 NCAA Men's Basketball Tournament First Round - VCU vs BYU" tvg-name="2025 NCAA Men's Basketball Tournament First Round: VCU vs BYU 20/03/25 - 21:00" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT USA
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.iosplayer.ru/zeko/premium338/mono.m3u8
 
 #EXTINF:-1 tvg-id="2025 NCAA Men's Basketball Tournament First Round - Yale vs Texas A&amp;M" tvg-name="2025 NCAA Men's Basketball Tournament First Round: Yale vs Texas A&amp;M 20/03/25 - 00:15" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TBS USA
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
